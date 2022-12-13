@@ -1,0 +1,15 @@
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\bin\Debug\net6.0\64.exe
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\bin\Debug\net6.0\64.deps.json
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\bin\Debug\net6.0\64.runtimeconfig.json
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\bin\Debug\net6.0\64.dll
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\bin\Debug\net6.0\64.pdb
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.csproj.AssemblyReference.cache
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.GeneratedMSBuildEditorConfig.editorconfig
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.AssemblyInfoInputs.cache
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.AssemblyInfo.cs
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.csproj.CoreCompileInputs.cache
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.dll
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\refint\64.dll
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.pdb
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\64.genruntimeconfig.cache
+I:\ОБУЧЕНИЕ\C# ДЗ\Seminar9\64\obj\Debug\net6.0\ref\64.dll
