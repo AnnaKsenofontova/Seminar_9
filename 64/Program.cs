@@ -11,7 +11,7 @@ NaturalNumbers(number);
 void NaturalNumbers(int num)
 {
     if (num < 1) return;
-    Console.Write($"{num} "); // сделано, как в примере, вывод наоборот
+    Console.Write($"{num} "); 
     NaturalNumbers(num - 1);
 }
 
